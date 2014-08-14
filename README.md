@@ -8,4 +8,6 @@ But if you're looking for git_immersion, please go to
 ## New in Branch-from-branch
 Add this text in branch2, which is a branch of branch1.
 
+## New in Branch4
+Add this text in branch4, which is a branch of branch1.
 
