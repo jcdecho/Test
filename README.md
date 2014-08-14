@@ -11,3 +11,5 @@ Add this text in branch2, which is a branch of branch1.
 ## New in Branch4
 Add this text in branch4, which is a branch of branch1.
 
+## MORE in branch4.
+Add this.
